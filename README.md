@@ -1,11 +1,8 @@
 # Consumido Marvel Comics API
 
- https://developer.marvel.com/docs
+https://developer.marvel.com/documentation/getting_started
 
-Documentação https://developer.marvel.com/documentation/authorization
-
-Leia também https://developer.marvel.com/documentation/authorization
-
+Autorização https://developer.marvel.com/documentation/authorization
 
 ## Autorização
 
